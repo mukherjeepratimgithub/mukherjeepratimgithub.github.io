@@ -1,4 +1,3 @@
-Thanks for downloading this template!
 
 Template Name: Personal
 Author: Pratim Mukherjee
